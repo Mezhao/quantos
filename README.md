@@ -2,4 +2,4 @@
 
 welcome to quantos.
 
-[install.md](install.md "install guide")
+[install guide](install.md "install guide")
