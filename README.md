@@ -25,7 +25,7 @@ quantos是一个开源的量化研究平台，旨在为用户提供全链路的�
 
 # Quickstart
 
-参见 [user guide](doc/user_guide.rst "user guide")
+参见 [user guide](doc/user_guide.md "user guide")
 
 更多的示例保存在 ``quantos/examples`` 
 
