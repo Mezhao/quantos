@@ -50,7 +50,7 @@ df, msg = api.quote(
 
 | 字段 | 类型 | 说明 | 缺省 |
 | --- | --- | --- | --- |
-| symbol | string | [**标的代码**](../../D:%5Cstore%5Cspark_download%5C%20List_Bond.csv#RANGE!_%E6%A0%87%E7%9A%84%E4%BB%A3%E7%A0%81) [，支持多标的查询](../../D:%5Cstore%5Cspark_download%5C%20List_Bond.csv#RANGE!_%E6%A0%87%E7%9A%84%E4%BB%A3%E7%A0%81) | 不可缺省 |
+| symbol | string | [**标的代码**] [，支持多标的查询] | 不可缺省 |
 | fields | string | 需要返回字段，多字段以&#39;,&#39;隔开；为&quot;&quot;时返回所有字段 | &quot;&quot; |
 
 
