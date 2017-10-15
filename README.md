@@ -1,9 +1,9 @@
 
 # Welcome
-欢迎使用quantos。
+欢迎使用quantOS。
 
 # Introduction
-quantos是一个开源的量化研究平台，旨在为用户提供全链路的量化研究解决方案，在这里，你将可以完成：
+quantOS是一个开源的量化研究平台，旨在为用户提供全链路的量化研究解决方案，在这里，你将可以完成：
 
 - 使用数据API，轻松获取研究数据
 - 使用信号研究工具，进行交易信号的快速定义、研究、回测
@@ -33,3 +33,6 @@ quantos是一个开源的量化研究平台，旨在为用户提供全链路的�
 
 如果您发现任何问题，请到[这里](https://github.com/quantOSorg/quantos/issues/new)提交。
 
+# License
+
+quantOS使用Apache 2.0许可协议。版权所有(c)2017 QuantOS。
